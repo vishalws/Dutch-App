@@ -21,7 +21,7 @@ public class SPUtils {
    
 
     //Login
-   
+   public static final String CHECK_LOGIN_AUTHONTICATION="SP_LoginCheck";
 
     //GET
 
