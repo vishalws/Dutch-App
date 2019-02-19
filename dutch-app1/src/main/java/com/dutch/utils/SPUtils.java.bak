@@ -18,7 +18,7 @@ public class SPUtils {
     private static Logger log = LogManager.getLogger(SPUtils.class);
 
     // SP Names  ---- CONSTANTS
-   //vishal
+   
 
     //Login
    public static final String CHECK_LOGIN_AUTHONTICATION="SP_LoginCheck";
